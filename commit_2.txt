@@ -1,0 +1,1 @@
+🔧 Refactored database connection logic for stability
